@@ -4,7 +4,7 @@ Summary:	MaxMind GeoIP2 PHP API
 Name:		php-geoip2-%{pkgname}
 Version:	0.6.0
 Release:	1
-License:	LGPL v2.1+
+License:	Apache v2.0
 Group:		Development/Languages/PHP
 Source0:	https://github.com/maxmind/GeoIP2-php/archive/v%{version}/%{pkgname}-%{version}.tar.gz
 # Source0-md5:	17e6a5bd702afeb497b9684f6a895c0e
