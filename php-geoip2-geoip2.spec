@@ -2,12 +2,12 @@
 %define		php_min_version 5.4
 Summary:	MaxMind GeoIP2 PHP API
 Name:		php-geoip2-%{pkgname}
-Version:	2.9.0
+Version:	2.13.0
 Release:	1
 License:	Apache v2.0
 Group:		Development/Languages/PHP
 Source0:	https://github.com/maxmind/GeoIP2-php/archive/v%{version}/%{pkgname}-%{version}.tar.gz
-# Source0-md5:	4389d315cd276636c7507b87e2fb21dc
+# Source0-md5:	c327d7d2acb161f6d76a8c6a7126b036
 URL:		http://maxmind.github.io/GeoIP2-php/
 Requires:	php(core) >= %{php_min_version}
 Requires:	php-maxmind-db-reader >= 0.2
